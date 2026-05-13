@@ -3,8 +3,8 @@
 ## Instalacion
 
 Instalar dependencias y ejecutar proyecto:
-bash npm install
-bash npx nodemon app.js
+- bash npm install
+- bash npx nodemon app.js
 
 ## Base de datos
 Importar el script SQL incluido para crear la base de datos y las tablas:
